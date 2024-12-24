@@ -10,6 +10,10 @@ While some approaches to retaining contextual data in memory take the reverse ap
 
 This can also be a useful method to follow when the intention is to generate a few very targeted pieces of contextual data. For example, the user is generating a assistant to help with a job search and wants to develop only a handful of pieces of context data to guide the assistant's work, such as perhaps mapping out their professional aspirations, previous experience, etc. 
 
+## Context Data Assistant: Suggests Topics & Formats User Inputs
+
+[![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/676a9f67f5594e379529ff32)
+
 ## Intended Workflow
 
 The combination of agents in the configuration folder is intended to provide the skeleton for a workflow whereby the user can sit back and answer questions in order to streamline the generation of these pieces of context data. 

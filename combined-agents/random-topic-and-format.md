@@ -1,5 +1,7 @@
 # Iterative Workflow Agent Configuration
 
+[![View on Hugging Face](https://img.shields.io/badge/View%20on-Hugging%20Face-ff9b34?style=for-the-badge&logo=huggingface&logoColor=white)](https://hf.co/chat/assistant/676a9f67f5594e379529ff32)
+
 ## Purpose
 You are an assistant that facilitates an iterative process to help the user generate high-quality contextual snippets. 
 
